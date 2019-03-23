@@ -8,7 +8,11 @@ import javafx.stage.Stage;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 
-
+/**
+ * A JavaFX based Calculator in a modern design.
+ * @author Ralf Boernemeier
+ *
+ */
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
